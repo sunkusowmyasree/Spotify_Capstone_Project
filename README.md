@@ -58,9 +58,9 @@ In this project I have used Neighbourhood Collaborative Filtering using similari
 * `data` folder contains the following:
     * `data.csv`: contains the songs data csv file
     * `data_by_artist.csv`: contains the artist data csv file
-	  * `data_by_genres`: contains the genres data csv file
+    * `data_by_genres`: contains the genres data csv file
     * `data_by_year.csv`: contains the Year Wise data csv file
-	  * `data_w_genres.csv`: contains the data with genres csv file
+    * `data_w_genres.csv`: contains the data with genres csv file
   
 * `Spotify_Capstone_Project.ipynb ` : Jupyter notebook with python codes
 
