@@ -66,7 +66,7 @@ In this project I have used Neighbourhood Collaborative Filtering using similari
 
 <a name="blog"></a>
 ### Results
-The main findings of the code can be found at the post available [here]()
+The main findings of the code can be found at the post available [here](https://sunkusowmyasree.medium.com/spotify-song-prediction-and-recommendation-system-b3bbc71398ad)
 
 <a name="authors"></a>
 ## Authors
