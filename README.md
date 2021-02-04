@@ -6,8 +6,9 @@
 3. [Project Tasks](#Tasks)
 4. [File Structure](#FileStructure)
 5. [Medium Blog](#blog)
-5. [Authors](#authors)
-6. [License](#license)
+6. [Results](#results)
+7. [Authors](#authors)
+8. [License](#license)
 
 <a name="descripton"></a>
 ## Description
@@ -65,13 +66,23 @@ In this project I have used Neighbourhood Collaborative Filtering using similari
 * `Spotify_Capstone_Project.ipynb ` : Jupyter notebook with python codes
 
 <a name="blog"></a>
-### Results
+### Medium Blog Post
 The main findings of the code can be found at the post available [here](https://sunkusowmyasree.medium.com/spotify-song-prediction-and-recommendation-system-b3bbc71398ad)
+
+<a name="results"></a>
+### Results
+Results are as follows:
+
+- The Mean Absolute Error and r2 score obtained from a test run using Decision Tree Regressor are 0.0792 and 74.896% respectively
+- The Mean Absolute Error and r2 score obtained from a test run using Decision Tree Regressor with Grid Search CV are 0.073 and 76.6% respectively
+- The Mean Absolute Error and r2 score obtained from a test run using Random Forest Regressor are 0.0758 and 74.683% respectively
+
+The Best Accuracy is achieved using Decision Tree Regressor with Grid Search CV model
 
 <a name="authors"></a>
 ## Authors
 
-* [Sowmya](https://github.com/sunkusowmyasree/) | [LinkedIn](https://www.linkedin.com/in/sunku96/)
+[Sowmya](https://github.com/sunkusowmyasree/) | [LinkedIn](https://www.linkedin.com/in/sunku96/)
 
 <a name="license"></a>
 
